@@ -17,9 +17,9 @@ Contributed to open-source projects in the Rust ecosystem
 ## Tasks
 
 ### 01 hello move
-- [ ] Sui CLI Version: 
-- [ ] Sui Wallet Screenshot: Link to image uploaded to `images` folder.
-- [ ] Package ID:
+- [x] Sui CLI Version: sui 1.39.2
+- [x] Sui Wallet Screenshot: ![](./images/sui_wallet.png)
+- [x] Package ID:
 - [ ] Package ID's Screenshot from Explorer: Link to image uploaded to `images` folder.
 
 ### 02 move coin
